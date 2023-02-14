@@ -6,3 +6,4 @@ matplotlib
 plotly
 scipy
 scikit-learn
+python-dotenv
