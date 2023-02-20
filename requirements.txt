@@ -1,3 +1,9 @@
 azure-identity
 openai
 pandas
+tiktoken
+matplotlib
+plotly
+scipy
+scikit-learn
+python-dotenv
